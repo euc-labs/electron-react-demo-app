@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/euc-labs/electron-test.git"
+    "url": "git+https://github.com/euc-labs/electron-react-demo-app.git"
   },
   "author": "EUC Labs",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/euc-labs/electron-test/issues"
+    "url": "https://github.com/euc-labs/electron-react-demo-app/issues"
   },
-  "homepage": "https://github.com/euc-labs/electron-test#readme",
+  "homepage": "https://github.com/euc-labs/electron-react-demo-app#readme",
   "dependencies": {
     "@babel/polyfill": "7.0.0",
     "react-dom": "16.6.3",
