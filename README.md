@@ -36,6 +36,7 @@ For production environments...
 $ npm run build
 $ npm run start
 ```
+This will auto-build after save any file on the project, to see the changes just refresh (like a browser) the electron window.
 
 ### Todos
 
